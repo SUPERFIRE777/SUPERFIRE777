@@ -5,8 +5,9 @@ I'm a Japanese university student who loves Python.
 
 I also like math and languages.
 
-## My Homepage
-[superfire777.github.io/MyHomepage](https://superfire777.github.io/MyHomepage/index.html)
+## More about me
+* [My Homepage (superfire777.github.io)](https://superfire777.github.io/MyHomepage/index.html)
+* [𝕏](https://x.com/superfire777)
 
 ## Stats
 ![Top Langs](./github-metrics.svg)
