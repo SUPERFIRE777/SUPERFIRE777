@@ -16,6 +16,3 @@ I also like math and languages.
 
 ## Stats
 ![Top Langs](./github-metrics.svg)
-
-## Tool List
-* [GetSongBPM](https://getsongbpm.com) - BPM, key, and time signature data
