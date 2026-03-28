@@ -33,9 +33,9 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">superfire777@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [#################   ] 81.01%
-<b>JAVASCRIPT  </b> [###                 ] 11.80%
-<b>HTML        </b> [##                  ] 6.12 %
+<pre><div class="stdin"><span class="ps1-path">superfire777@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [#################   ] 81.03%
+<b>JAVASCRIPT  </b> [###                 ] 11.79%
+<b>HTML        </b> [##                  ] 6.11 %
 <b>CSS         </b> [#                   ] 1.00 %
 <b>BATCHFILE   </b> [#                   ] 0.07 %
 </div>
